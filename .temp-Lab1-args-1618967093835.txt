@@ -1,0 +1,6 @@
+-Dfile.encoding=Cp1252
+-classpath
+"C:\\Users\\Owner\\Desktop\\CS2510 Eclipse Folder\\EclipseWorkspace\\MazesPart2\\bin;C:\\Users\\Owner\\Desktop\\CS2510 Eclipse Folder\\EclipseJars\\javalib.jar;C:\\Users\\Owner\\Desktop\\CS2510 Eclipse Folder\\EclipseJars\\tester.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+tester.Main
+ExamplesMaze
